@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andrewwio
-- 👀 I’m interested in Shopify web development
-- 🌱 I’m currently learning Shopify web development
-- 💞️ I’m looking to collaborate on Shopify web development
+- 👀 I’m interested in getting a developer job in Tallinn, Estonia
+- 🌱 I’m currently learning React, Node & Express, Java & Spring Boot, and MySQL
 - 📫 How to reach me: hello@andreww.io
 
 <!---
