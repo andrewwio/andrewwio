@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Wawrzyniak @andrewwio 
 - 👀 I’m interested in getting a developer job in Tallinn, Estonia 🇪🇪
-- 🌱 I’m currently building projects using React, Node & Express, Java & Spring Boot, and MySQL
+- 🌱 I’m currently building projects using React, Node & Express, Java & Spring Boot, MySQL, and MongoDB
 - 📁 See my current portfolio at https://andreww.io/
 - 📫 How to reach me: hello@andreww.io
 
