@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew Wawrzyniak @andrewwio 
-- 🇺🇸 Looking for a remote developer job in Salt Lake City or Fargo
+- 🇺🇸 Looking for a remote developer job!
 - 🌱 I’m currently building projects using React, Node & Express, Java & Spring Boot, MySQL, and MongoDB
 - 📁 See my current portfolio at https://andreww.io/
 - 📫 How to reach me: hello@andreww.io
